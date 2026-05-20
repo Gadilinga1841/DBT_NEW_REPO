@@ -1,0 +1,1 @@
+select current_database() as v_database,current_schema() as v_schema
