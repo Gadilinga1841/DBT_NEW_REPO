@@ -1,1 +1,1 @@
-select current_database() as v_database,current_schema() as v_schema
+select current_user() as usr,current_database() db
